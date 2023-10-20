@@ -1,0 +1,41 @@
+sample link: https://themewagon.github.io/jobfinderportal/index.html
+
+## SkillShareSpace: Skill Barter Platform
+
+### Overview:
+
+In today's fast-paced world, everyone has a unique skill set. "SkillShareSpace" is a MERN stack single-page application that acts as a nexus for individuals looking to exchange skills without the transaction of money. This platform taps into the barter system's power, offering a space where learning and teaching coexist.
+
+### User Story:
+
+1. As a user, I want to register and create a profile highlighting my skills.
+2. As a registered user, I want to list the skills I can offer and the skills I'm seeking.
+3. As a user, I want to browse through available skills and view user profiles offering those skills.
+4. As a user, I want to send a skill exchange request and discuss the terms of the exchange (e.g., I’ll teach you Spanish for 10 sessions if you help me build a website).
+5. As a registered user, I want to receive notifications of skill exchange requests and accept or decline them.
+6. As a user, I want to leave feedback or rate other users based on our exchange experience.
+7. As a user, I want a responsive platform that's easy to navigate, search, and filter by skill categories.
+8.
+
+### Acceptance Criteria:
+
+- [ ] Front-end is developed using React.
+- [ ] Backend utilizes GraphQL with a Node.js and Express.js server.
+- [ ] MongoDB with Mongoose ODM for user data and skill listings storage.
+- [ ] CRUD operations (Queries and Mutations) for managing user profiles and skill exchange requests.
+- [ ] Application is deployed on Heroku and runs without errors.
+- [ ] UI is sleek, intuitive, and polished, using either pure CSS or a library like Semantic UI.
+- [ ] Design is mobile-friendly and responsive.
+- [ ] Payment system for donations
+- [ ] User authentication is implemented using JWT.
+- [ ] The application has protections against spam and fake listings.
+- [ ] The GitHub repository is organized, following best coding standards.
+- [ ] A comprehensive README details the app's purpose, tech stack, features, screenshots, and deployment links.
+
+Embrace the ancient tradition of barter with the modern twist of "SkillShareSpace" and foster a community driven by the passion to learn and teach!
+
+
+
+DB:
+username: snoopyhassan007
+password: yu1r7BI9CUAWlNHt

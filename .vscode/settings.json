@@ -1,0 +1,5 @@
+{
+    "dotenv.enableAutocloaking": true,
+    "editor.fontSize": 16,
+    "editor.tabSize": 5
+}
